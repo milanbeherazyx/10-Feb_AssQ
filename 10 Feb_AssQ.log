@@ -1,0 +1,13 @@
+2023-03-23 07:23:51,145 Comm ERROR No such comm target registered: jupyter.widget.control
+2023-03-23 07:23:51,150 Comm WARNING No such comm: 30ac99d1-3cca-4eaf-be65-ea8abed8a727
+2023-03-23 07:23:51,150 Comm DEBUG Current comms: []
+2023-03-23 07:23:56,309 root INFO File written successfully
+2023-03-23 07:23:56,702 root INFO File written successfully
+2023-03-23 07:23:57,652 root INFO File written successfully
+2023-03-23 07:23:57,653 root INFO File read successfully
+2023-03-23 07:23:58,002 root INFO File contents: I want to become a Data Scientist
+2023-03-23 07:23:58,002 root INFO First line of file: I want to become a Data Scientist
+2023-03-23 07:23:58,003 root INFO Line 1: I want to become a Data Scientist
+2023-03-23 07:23:58,730 root INFO File contents: I want to become a Data Scientist
+2023-03-23 07:23:59,305 root INFO File was written successfully using write() function
+2023-03-23 07:23:59,671 root INFO File was written successfully using writelines() function
